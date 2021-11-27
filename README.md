@@ -16,3 +16,10 @@ parts of this are:
 ### Processes planning
 
 This is the first step.
+
+## Contribution
+
+Please make sure to read the [Contributing Guide][1] before making a pull
+request.
+
+[1]: ./.github/CONTRIBUTING.md
